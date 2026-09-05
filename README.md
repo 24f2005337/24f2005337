@@ -36,7 +36,7 @@ I enjoy turning ideas into projects, experimenting with designs, and making my l
 
 | 🌱 currently learning | 💻 currently building | 🎨 currently exploring | ☕ powered by |
 |:---:|:---:|:---:|:---:|
-| Data Management | Web Projects | UI / UX | Curiosity |
+| 📊 Data Management | ⚙️ Backend Development |🌐 Full-Stack Development |🎨 UI/UX Design |🚀 System Design (basic level)
 
 </div>
 
@@ -191,9 +191,21 @@ My little digital space where I collect my projects, experiments and things I'm 
 
 <td align="center" width="25%">
 
-<h2>🧩</h2>
+<h2>🗄️ </h2>
 
-<b>DSA</b>
+<b> SQL & Databases</b>
+
+<br><br>
+
+█████░░░░░
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🌐</h2>
+
+<b>Full-Stack Development</b>
 
 <br><br>
 
@@ -205,7 +217,19 @@ My little digital space where I collect my projects, experiments and things I'm 
 
 <h2>🎨</h2>
 
-<b>UI / UX</b>
+<b> UI/UX Design</b>
+
+<br><br>
+
+█████░░░░░
+
+</td>
+<td align="center" width="25%">
+
+
+<h2>🤖</h2>
+
+<b> AI / Machine Learning</b>
 
 <br><br>
 
@@ -218,17 +242,6 @@ My little digital space where I collect my projects, experiments and things I'm 
 
 ---
 
-<div align="center">
-
-<h2>✦ a little github magic ✦</h2>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=24f2005337&show_icons=true&hide_border=true&rank_icon=github" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2005337&hide_border=true" width="48%">
-
-</div>
 
 ---
 
@@ -281,6 +294,7 @@ pretty things ✨
 </td>
 
 </tr>
+
 </table>
 
 ---
