@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./ChatGPT%20Image%20Sep%205%2C%202026%2C%2012_48_48%20PM.png" width="100%" alt="Shivani GitHub"/>
+<img src="./banner.png" width="100%" alt="Shivani GitHub"/>
 
 <br>
 
 <h1>🌷 hello, i'm SHIVANI ♡</h1>
 
-<h3>developer · builder · learner</h3>
+<h3>developer · builder · data science learner</h3>
 
 <p><i>turning little ideas into things that actually work ✨</i></p>
 
@@ -26,7 +26,7 @@
 
 Hey! I'm **Shivani** 🌸
 
-I'm a **BSc Physical Science student** who loves building things for the web and learning how everything works behind the screen.
+I'm a **BS Data Science and Applications student at IIT Madras** (alongside my **BSc in Physical Science**). I love building full-stack web apps and I'm now moving towards using data and machine learning to build things that solve real problems.
 
 I enjoy turning ideas into projects, experimenting with designs, and making my little corner of the internet feel like me. ♡
 
@@ -34,9 +34,9 @@ I enjoy turning ideas into projects, experimenting with designs, and making my l
 
 <div align="center">
 
-| 🌱 currently learning | 💻 currently building | 🎨 currently exploring | ☕ powered by |
-|:---:|:---:|:---:|:---:|
-| 📊 Data Management | ⚙️ Backend Development |🌐 Full-Stack Development |🎨 UI/UX Design |🚀 System Design (basic level)
+| 🌱 currently learning | 💻 currently building | 🎨 currently exploring | 🚀 also exploring | ☕ powered by |
+|:---:|:---:|:---:|:---:|:---:|
+| 📊 Data Science & ML | ⚙️ Backend Development | 🌐 Full-Stack Development | 🧩 System Design (basics) | 🎨 UI/UX Design |
 
 </div>
 
@@ -80,6 +80,69 @@ A full-stack application for managing trekking activities, trekkers, staff and a
 </div>
 
 </td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+<h2>🎓</h2>
+
+<h3>Placement Portal</h3>
+
+<p>
+A role-based web app where Admin (Institute), Companies and Students interact through a placement workflow.
+</p>
+
+</div>
+
+**Tech**
+
+`Python` `Flask`  
+`HTML` `CSS`
+
+<div align="center">
+
+<a href="https://github.com/24f2005337/PlacementPortal_24f2005337">
+♡ view project →
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+<h2>🗂️</h2>
+
+<h3>Smart Directory Organizer</h3>
+
+<p>
+A Python script that automatically cleans and organizes cluttered folders.
+</p>
+
+</div>
+
+**Tech**
+
+`Python`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/24f2005337/Smart-Directory-Organizer">
+♡ view project →
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="33%" valign="top">
 
@@ -139,6 +202,33 @@ My little digital space where I collect my projects, experiments and things I'm 
 
 </td>
 
+<td width="33%" valign="top">
+
+<div align="center">
+
+<h2>🤖</h2>
+
+<h3>ML Project (coming soon)</h3>
+
+<p>
+An end-to-end machine learning project: data cleaning, model building, evaluation and deployment.
+</p>
+
+</div>
+
+**Tech**
+
+`Python` `pandas`  
+`scikit-learn`
+
+<div align="center">
+
+<i>in progress 🌱</i>
+
+</div>
+
+</td>
+
 </tr>
 </table>
 
@@ -150,7 +240,7 @@ My little digital space where I collect my projects, experiments and things I'm 
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,flask,vue,js,html,css,bootstrap,sqlite,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flask,vue,js,html,css,bootstrap,sqlite,mysql,redis,pandas,numpy,git,github,vscode" />
 
 </div>
 
@@ -160,88 +250,12 @@ My little digital space where I collect my projects, experiments and things I'm 
 
 <h2>☁️ currently learning ☁️</h2>
 
+<p>
+📊 Data Science &nbsp;·&nbsp; 🤖 Machine Learning &nbsp;·&nbsp; 🗄️ SQL & Databases <br>
+⚙️ Backend Development &nbsp;·&nbsp; 🌐 Full-Stack Development &nbsp;·&nbsp; 🎨 UI/UX Design
+</p>
+
 </div>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<h2>📊</h2>
-
-<b>Data Management</b>
-
-<br><br>
-
-███████░░░
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>⚙️</h2>
-
-<b>Backend</b>
-
-<br><br>
-
-██████░░░░
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🗄️ </h2>
-
-<b> SQL & Databases</b>
-
-<br><br>
-
-█████░░░░░
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🌐</h2>
-
-<b>Full-Stack Development</b>
-
-<br><br>
-
-█████░░░░░
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🎨</h2>
-
-<b> UI/UX Design</b>
-
-<br><br>
-
-█████░░░░░
-
-</td>
-<td align="center" width="25%">
-
-
-<h2>🤖</h2>
-
-<b> AI / Machine Learning</b>
-
-<br><br>
-
-█████░░░░░
-
-</td>
-
-</tr>
-</table>
-
----
-
 
 ---
 
@@ -279,6 +293,12 @@ pretty things ✨
 
 <a href="https://24f2005337.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-♡-b56f7b?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/shivani-jain-iitm">
+<img src="https://img.shields.io/badge/LINKEDIN-♡-b56f7b?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
