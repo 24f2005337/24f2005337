@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Shivani GitHub"/>
-
+<img src="./ChatGPT%20Image%20Sep%205%2C%202026%2C%2012_48_48%20PM.png" width="100%" alt="Shivani GitHub"/>
 <br>
 
 <h1>🌷 hello, i'm SHIVANI ♡</h1>
