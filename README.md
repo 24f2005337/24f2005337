@@ -1,45 +1,45 @@
 <div align="center">
 
-<img src="./ChatGPT%20Image%20Sep%205%2C%202026%2C%2012_48_48%20PM.png" width="100%" alt="Shivani GitHub"/>
-<br>
-
-<h1>🌷 hello, i'm SHIVANI ♡</h1>
-
-<h3>developer · builder · data science learner</h3>
-
-<p><i>turning little ideas into things that actually work ✨</i></p>
-
-<p>
-☕ coffee &nbsp; · &nbsp; 💻 code &nbsp; · &nbsp; ♫ music &nbsp; · &nbsp; 🌸 dreams
-</p>
+<img src="./assets/banner.png" width="100%" alt="hi, i'm Shivani"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<h2>✿ about me ✿</h2>
+<h2>❀ about me ❀</h2>
 
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 Hey! I'm **Shivani** 🌸
 
-I'm a **BS Data Science and Applications student at IIT Madras** (alongside my **BSc in Physical Science**). I love building full-stack web apps and I'm now moving towards using data and machine learning to build things that solve real problems.
+I'm a **BS Data Science student at IIT Madras** who loves building things for the web and learning how everything works behind the screen.
 
 I enjoy turning ideas into projects, experimenting with designs, and making my little corner of the internet feel like me. ♡
 
+</td>
+<td width="50%" valign="top">
+
+📖 **currently learning** → Data Science · ML · DSA · Backend
+
+💻 **currently building** → Web & Full-Stack Projects
+
+🎨 **currently exploring** → UI/UX & Creative Web Design
+
+☕ **powered by** → Coffee + Curiosity
+
+🐈‍⬛ **coding companion** → An imaginary cat
+
+</td>
+</tr>
+</table>
+
 <br>
-
-<div align="center">
-
-| 🌱 currently learning | 💻 currently building | 🎨 currently exploring | 🚀 also exploring | ☕ powered by |
-|:---:|:---:|:---:|:---:|:---:|
-| 📊 Data Science & ML | ⚙️ Backend Development | 🌐 Full-Stack Development | 🧩 System Design (basics) | 🎨 UI/UX Design |
-
-</div>
-
----
 
 <div align="center">
 
@@ -50,224 +50,109 @@ I enjoy turning ideas into projects, experimenting with designs, and making my l
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-<div align="center">
+<img src="./assets/trek.png" width="100%" alt="Trekking Management"/>
 
-<h2>🥾</h2>
+**🥾 Trekking Management**
 
-<h3>Trekking Management</h3>
-
-<p>
 A full-stack application for managing trekking activities, trekkers, staff and administrators.
-</p>
 
-</div>
+`Flask` `Vue.js` `SQLite` `SQLAlchemy` `Redis` `Celery`
 
-**Tech**
-
-`Flask` `Vue.js`  
-`SQLite` `SQLAlchemy`  
-`Redis` `Celery`
-
-<div align="center">
-
-<a href="https://github.com/24f2005337/Trekking-Management-Application-MAD1">
-♡ view project →
-</a>
-
-</div>
+🔗 [view project →](https://github.com/24f2005337/Trekking-Management-Application-MAD1)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-<div align="center">
+<img src="./assets/vibecheck.png" width="100%" alt="VibeCheck"/>
 
-<h2>🎓</h2>
+**🎧 VibeCheck**
 
-<h3>Placement Portal</h3>
+A web project focused on frontend interactions, design and user experience.
 
-<p>
-A role-based web app where Admin (Institute), Companies and Students interact through a placement workflow.
-</p>
+`HTML` `CSS` `JavaScript`
 
-</div>
-
-**Tech**
-
-`Python` `Flask`  
-`HTML` `CSS`
-
-<div align="center">
-
-<a href="https://github.com/24f2005337/PlacementPortal_24f2005337">
-♡ view project →
-</a>
-
-</div>
+🔗 [view project →](https://github.com/24f2005337/vibecheck-os)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-<div align="center">
+<img src="./assets/portfolio.png" width="100%" alt="Personal Portfolio"/>
 
-<h2>🗂️</h2>
+**🌐 Personal Portfolio**
 
-<h3>Smart Directory Organizer</h3>
-
-<p>
-A Python script that automatically cleans and organizes cluttered folders.
-</p>
-
-</div>
-
-**Tech**
-
-`Python`
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/24f2005337/Smart-Directory-Organizer">
-♡ view project →
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h2>🎧</h2>
-
-<h3>VibeCheck</h3>
-
-<p>
-A creative web project focused on frontend interactions, design and user experience.
-</p>
-
-</div>
-
-**Tech**
-
-`HTML` `CSS`  
-`JavaScript`
-
-<div align="center">
-
-<a href="https://github.com/24f2005337/vibecheck-os">
-♡ view project →
-</a>
-
-</div>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h2>🌐</h2>
-
-<h3>Personal Portfolio</h3>
-
-<p>
 My little digital space where I collect my projects, experiments and things I'm learning.
-</p>
 
-</div>
+`HTML` `CSS` `JavaScript`
 
-**Tech**
-
-`HTML` `CSS`  
-`JavaScript`
-
-<div align="center">
-
-<a href="https://24f2005337.github.io/Portfolio/">
-♡ visit portfolio →
-</a>
-
-</div>
+🔗 [visit portfolio →](https://24f2005337.github.io/Portfolio/)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top" align="center">
 
-<div align="center">
+<h3>☁️</h3>
 
-<h2>🤖</h2>
+**What's next?**
 
-<h3>ML Project (coming soon)</h3>
+More projects.  
+More experiments.  
+More things I haven't figured out yet.
 
-<p>
-An end-to-end machine learning project: data cleaning, model building, evaluation and deployment.
-</p>
-
-</div>
-
-**Tech**
-
-`Python` `pandas`  
-`scikit-learn`
-
-<div align="center">
-
-<i>in progress 🌱</i>
-
-</div>
+<i>one project at a time ✨</i>
 
 </td>
 
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<h2>🌷 my little toolbox 🌷</h2>
-
 <br>
-
-<img src="https://skillicons.dev/icons?i=python,flask,vue,js,html,css,bootstrap,sqlite,mysql,redis,pandas,numpy,git,github,vscode" />
-
-</div>
-
----
-
-<div align="center">
-
-<h2>☁️ currently learning ☁️</h2>
-
-<p>
-📊 Data Science &nbsp;·&nbsp; 🤖 Machine Learning &nbsp;·&nbsp; 🗄️ SQL & Databases <br>
-⚙️ Backend Development &nbsp;·&nbsp; 🌐 Full-Stack Development &nbsp;·&nbsp; 🎨 UI/UX Design
-</p>
-
-</div>
-
----
 
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top" align="center">
 
-<h2>🐈‍⬛</h2>
+<h3>my little toolbox 🌸</h3>
 
-<h3>cat-approved corner</h3>
+<img src="https://skillicons.dev/icons?i=python,flask,vue,js,html,css,bootstrap,sqlite,git,github,vscode" />
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>currently learning 🌸</h3>
+
+**Data Management** &nbsp;·&nbsp; **Backend Development**  
+**DSA & Problem Solving** &nbsp;·&nbsp; **UI/UX Design**  
+**AI / Machine Learning**
+
+</td>
+
+</tr>
+</table>
 
 <br>
+
+<table>
+<tr>
+
+<td width="40%" valign="top" align="center">
+
+<h3>github magic 🌸</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=24f2005337&show_icons=true&hide_border=true&bg_color=FDE8EF&title_color=993556&text_color=5A2A3C&icon_color=D4537E" width="100%" alt="GitHub stats"/>
+
+<img src="https://streak-stats.demolab.com?user=24f2005337&hide_border=true&background=FDE8EF&ring=D4537E&fire=D4537E&currStreakNum=993556&sideNums=993556&currStreakLabel=993556&sideLabels=5A2A3C&dates=5A2A3C" width="100%" alt="GitHub streak"/>
+
+</td>
+
+<td width="30%" valign="top" align="center">
+
+<h3>cat-approved corner 🌸</h3>
 
 <pre>
  /\_/\
@@ -282,46 +167,33 @@ pretty things ✨
 
 </td>
 
-<td width="50%" align="center">
+<td width="30%" valign="top" align="center">
 
-<h2>🌸</h2>
-
-<h3>let's connect</h3>
-
-<br>
-
-<a href="https://24f2005337.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-♡-b56f7b?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<br><br>
+<h3>let's connect 🌸</h3>
 
 <a href="https://www.linkedin.com/in/shivani-jain-iitm">
-<img src="https://img.shields.io/badge/LINKEDIN-♡-b56f7b?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-♡-b56f7b?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/24f2005337">
-<img src="https://img.shields.io/badge/GITHUB-♡-b56f7b?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://24f2005337.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-♡-b56f7b?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-<p>thanks for stopping by! 🌷</p>
+thanks for stopping by! 🌷
+
+<i>keep learning · keep building · keep growing ✨</i>
 
 </td>
 
 </tr>
-
 </table>
-
----
 
 <div align="center">
 
-<h3>🌷 keep learning · keep building · keep growing ✨</h3>
-
-<p>🐈‍⬛ ♡ ☕ ♡ 💻 ♡ 🌸</p>
+<img src="./assets/footer.png" width="100%" alt=""/>
 
 </div>
